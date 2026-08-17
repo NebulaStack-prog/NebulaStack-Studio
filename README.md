@@ -20,26 +20,20 @@ Explore creativity through technology, experiment with different forms of digita
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| NS-ST001 | NebulaStack Emblem Archive | — | 🛠 |
-| NS-ST002 | NebulaStack Universes | — | 🛠 |
+| NS-S001 | NebulaStack Emblem Archive | — | 🛠 |
 
 ## Music
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| NS-ST010 | NebulaStack Music | — | 🛠 |
+| NS-S002 | Synthetic but Fine | [RU More...](Synthetic_but_Fine_RU.md) [EN More...](Synthetic_but_Fine_EN.md)| ✅️ |
 
-## Video
-
-| ID | Project | Links | Status |
-| ------ | -------------- | ------- | :----: |
-| NS-ST020 | NebulaStack Media | — | 🛠 |
 
 ## Creative Experiments
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| NS-ST030 | Creative Experiments | — | 🛠 |
+|  |  |  | 📝 |
 
 # 🖼️ Visual Archive
 
@@ -68,17 +62,6 @@ Projects may include:
 * 🏆 Event anthems
 * 🎹 Experimental compositions
 * 🎬 Intro and outro music
-
-# 🎬 Video
-
-The video section contains:
-
-* Project presentations
-* Development videos
-* Short-form content
-* Tutorials
-* Event media
-* Creative experiments
 
 # 🧪 Creative Experiments
 

@@ -20,13 +20,14 @@ Explore creativity through technology, experiment with different forms of digita
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| NS-S001 | NebulaStack Emblem Archive | — | 🛠 |
+| NS-S001 | NebulaStack Emblem Archive | [More...](https://github.com/NebulaStack-prog/Emblems) | 🛠 |
 
 ## Music
 
-| ID | Project | Links | Status |
-| ------ | -------------- | ------- | :----: |
-| NS-S002 | Synthetic but Fine | [RU More...](Synthetic_but_Fine_RU.md) [EN More...](Synthetic_but_Fine_EN.md)| ✅️ |
+| ID | Project | RU Links |EN Links| Status |
+| ------ | -------------- | ------- | ---- | :----: |
+| NS-S002 | Synthetic but Fine | [More...](Synthetic_but_Fine_RU.md) |[More...](Synthetic_but_Fine_EN.md)|  ✅️ |
+| NS-S003 | Racing Line 1-3 | [More...](Racing_Line_RU.md) |[More...](Racing_Line_EN.md)|  ✅️ |
 
 
 ## Creative Experiments

@@ -54,14 +54,6 @@ Visual experiments exploring the evolution of the NebulaStack brand and its tran
 
 The music section contains original tracks, sound concepts, jingles and experimental compositions created for NebulaStack projects and events.
 
-Projects may include:
-
-* 🎧 Original tracks
-* 🎮 Game soundtracks
-* 🏆 Event anthems
-* 🎹 Experimental compositions
-* 🎬 Intro and outro music
-
 # 🧪 Creative Experiments
 
 Studio is also a space for experiments that do not fit into traditional software or scientific development.
@@ -77,6 +69,8 @@ This may include new visual styles, multimedia concepts, animation, storytelling
 * Video Production Tools
 * Git
 * GitHub
+* Song AI
+* Photos
 
 # 🌌 Philosophy
 

@@ -62,11 +62,9 @@ This may include new visual styles, multimedia concepts, animation, storytelling
 
 # 🛠 Technology Stack
 
-* Adobe / Video Editing Tools
 * Blender
 * Image Generation
 * Audio Production Tools
-* Video Production Tools
 * Git
 * GitHub
 * Song AI

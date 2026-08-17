@@ -1,6 +1,6 @@
 # 🎨 NebulaStack – Studio
 
-> **Creative Technology • Music • Visual Art**
+> **Creative Technology • Music • Visual Art • Media**
 
 ## 📖 About
 

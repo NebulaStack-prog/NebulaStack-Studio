@@ -31,10 +31,7 @@ Explore creativity through technology, experiment with different forms of digita
 
 
 ## Creative Experiments
-
-| ID | Project | Links | Status |
-| ------ | -------------- | ------- | :----: |
-|  |  |  | 📝 |
+*Coming soon...*
 
 # 🖼️ Visual Archive
 

@@ -6,7 +6,7 @@
 
 **NebulaStack – Studio** is the creative direction of the NebulaStack ecosystem.
 
-It contains visual concepts, emblems, music, videos, digital artwork, experimental media and other creative projects developed throughout the NebulaStack journey.
+It contains visual concepts, emblems, music, digital artwork, experimental media and other creative projects developed throughout the NebulaStack journey.
 
 Studio connects technology with creativity, transforming ideas into visual, musical and multimedia experiences.
 

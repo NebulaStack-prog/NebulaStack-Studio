@@ -14,16 +14,16 @@ Studio connects technology with creativity, transforming ideas into visual, musi
 
 Explore creativity through technology, experiment with different forms of digital media and build a recognizable visual and cultural identity for the NebulaStack ecosystem.
 
-# 🚀 Projects
+## 🚀 Projects
 
-## Visual
+### Visual
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
 | NS-S001 | NebulaStack Emblem Archive | [More...](https://github.com/NebulaStack-prog/Emblems) | 🛠 |
 | NS-S002 |NebulaStack Multiverse| [More...](https://github.com/NebulaStack-prog/Multiverse) | 🛠 |
 
-## Music
+### Music
 
 | ID | Project | RU Links |EN Links| Status |
 | ------ | -------------- | ------- | ---- | :----: |
@@ -31,36 +31,10 @@ Explore creativity through technology, experiment with different forms of digita
 | NS-S004 | Racing Line 1-3 | [More...](Racing_Line_RU.md) |[More...](Racing_Line_EN.md)|  ✅️ |
 
 
-## Creative Experiments
+### Creative Experiments
 *Coming soon...*
 
-# 🖼️ Visual Archive
-
-The Studio archive contains visual materials created throughout the NebulaStack journey.
-
-### Emblems
-
-A collection of NebulaStack emblems and visual identities created for different projects, events and directions.
-
-### Universes
-
-A collection of creative interpretations of NebulaStack and its creator in different fictional and artistic universes.
-
-### Identity
-
-Visual experiments exploring the evolution of the NebulaStack brand and its transition toward NESTIMS.
-
-# 🎵 Music
-
-The music section contains original tracks, sound concepts, jingles and experimental compositions created for NebulaStack projects and events.
-
-# 🧪 Creative Experiments
-
-Studio is also a space for experiments that do not fit into traditional software or scientific development.
-
-This may include new visual styles, multimedia concepts, animation, storytelling and experimental digital formats.
-
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Blender
 * Image Generation
@@ -70,7 +44,7 @@ This may include new visual styles, multimedia concepts, animation, storytelling
 * Song AI
 * Photos
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Technology does not exist separately from creativity.
 

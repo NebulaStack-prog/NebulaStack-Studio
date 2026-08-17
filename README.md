@@ -60,7 +60,7 @@ Studio is also a space for experiments that do not fit into traditional software
 
 This may include new visual styles, multimedia concepts, animation, storytelling and experimental digital formats.
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Blender
 * Image Generation
@@ -70,7 +70,7 @@ This may include new visual styles, multimedia concepts, animation, storytelling
 * Song AI
 * Photos
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Technology does not exist separately from creativity.
 

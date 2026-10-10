@@ -2,21 +2,21 @@
 
 ## 1. Overview
 
-**Synthetic but Fine** is the first music album released as part of the NebulaStack ecosystem.
+**Synthetic but Fine** is the first music album released as part of the NESTIMS ecosystem.
 
-Although software development, engineering, and research form the foundation of NebulaStack, music became a natural extension of the project. It provides another way to express ideas, emotions, and the atmosphere behind development—not through code, but through sound.
+Although software development, engineering, and research form the foundation of NESTIMS, music became a natural extension of the project. It provides another way to express ideas, emotions, and the atmosphere behind development—not through code, but through sound.
 
 The idea for the album was born from a deep appreciation for modern music. Throughout the production process, different genres, vocal styles, instrumental arrangements, and songwriting structures were carefully explored and analyzed.
 
-Since NebulaStack is not a musical band and has no permanent vocalist, artificial intelligence was used as a **voice enhancement tool**. AI was never intended to replace creativity—it simply helped improve the quality of the recorded vocals and supported parts of the production process.
+Since NESTIMS is not a musical band and has no permanent vocalist, artificial intelligence was used as a **voice enhancement tool**. AI was never intended to replace creativity—it simply helped improve the quality of the recorded vocals and supported parts of the production process.
 
 Each composition required dozens of experiments with melodies, instruments, arrangements, and overall structure. Writing the lyrics was equally demanding: every song needed its own identity while remaining connected to the others through a shared atmosphere and philosophy.
 
-The result is a four-track album united by a common musical style, recurring themes, and the core philosophy of NebulaStack.
+The result is a four-track album united by a common musical style, recurring themes, and the core philosophy of NESTIMS.
 
 # 2. Album Concept
 
-Each track represents a different aspect of NebulaStack.
+Each track represents a different aspect of NESTIMS.
 
 ### **Stacking Light**
 
@@ -52,7 +52,7 @@ The word **Synthetic** acknowledges the use of artificial intelligence during vo
 
 The phrase **but Fine** represents the final result. Despite relying on modern AI tools, the album retains its own atmosphere, emotion, and identity.
 
-Together, these ideas formed the title of NebulaStack's first music album:
+Together, these ideas formed the title of NESTIMS's first music album:
 
 ## **Synthetic but Fine**
 

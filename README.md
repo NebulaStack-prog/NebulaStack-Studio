@@ -4,7 +4,7 @@
 
 ## 📖 About
 
-**NebulaStack – Studio** is the creative direction of the NebulaStack ecosystem.
+**NebulaStack – Studio** is the creative direction of the NESTIMS ecosystem.
 
 It contains visual concepts, emblems, music, digital artwork, experimental media and other creative projects developed throughout the NebulaStack journey.
 
@@ -12,7 +12,7 @@ Studio connects technology with creativity, transforming ideas into visual, musi
 
 ## 🎯 Mission
 
-Explore creativity through technology, experiment with different forms of digital media and build a recognizable visual and cultural identity for the NebulaStack ecosystem.
+Explore creativity through technology, experiment with different forms of digital media and build a recognizable visual and cultural identity for the NESTIMS ecosystem.
 
 ## 🚀 Projects
 
@@ -36,7 +36,6 @@ Explore creativity through technology, experiment with different forms of digita
 
 ## 🛠 Technology Stack
 
-* Blender
 * Image Generation
 * Audio Production Tools
 * Git
@@ -50,6 +49,6 @@ Technology does not exist separately from creativity.
 
 A project can be an application, a game, a song, an emblem, a video or an entirely new form of digital expression.
 
-Every creative work becomes another piece of the NebulaStack identity.
+Every creative work becomes another piece of the NNESTIMS identity.
 
 > **Built through technology. Expressed through creativity.**

@@ -56,4 +56,4 @@ Together, these ideas formed the title of NESTIMS's first music album:
 
 ## **Synthetic but Fine**
 
-> *"Created with artificial intelligence. Crafted by a human."*
+> *Created with artificial intelligence. Crafted by a human.*

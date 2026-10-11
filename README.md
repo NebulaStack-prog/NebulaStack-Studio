@@ -23,10 +23,10 @@ Explore creativity through technology, experiment with different forms of digita
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_SP.png" width="200" height="230">
 
 ### Plants vs Zombies
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_PvsZ.png" width="200" height="120">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_PvsZ.png" width="200" height="174">
 
 ### Grand Theft Auto
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="200" height="120">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="200" height="200">
 
 ### Music
 

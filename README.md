@@ -25,6 +25,9 @@ Explore creativity through technology, experiment with different forms of digita
 ### Plants vs Zombies
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_PvsZ.png" width="200" height="120">
 
+### Grand Theft Auto
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="200" height="120">
+
 ### Music
 
 | ID | Project | RU Links |EN Links| Status |

@@ -18,7 +18,7 @@ Explore creativity through technology, experiment with different forms of digita
 
 ### Visual
 
-![]()
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_Lego.png" width="200" height="230">
 ![]()
 ![]()
 

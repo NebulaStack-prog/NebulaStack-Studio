@@ -17,16 +17,16 @@ Explore creativity through technology, experiment with different forms of digita
 ## 🚀 Projects
 
 ### Lego
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_Lego.png" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_Lego.png" width="300" height="345">
 
 ### South Park
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_SP.png" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_SP.png" width="300" height="345">
 
 ### Plants vs Zombies
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_PvsZ.png" width="200" height="174">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_PvsZ.png" width="300" height="180">
 
 ### Grand Theft Auto
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="200" height="200">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="300" height="261">
 
 ### Music
 

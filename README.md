@@ -14,7 +14,15 @@ Studio connects technology with creativity, transforming ideas into visual, musi
 
 Explore creativity through technology, experiment with different forms of digital media and build a recognizable visual and cultural identity for the NESTIMS ecosystem.
 
-## 🚀 Projects
+## 👤 N?S Man Collection
+
+### Halloween Collection
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/HalNFT.png" width="300" height="323">
+
+### Christmas Collection
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/CrNFT.png" width="300" height="323">
+
+## 🚀 Other projects
 
 ### Lego
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_Lego.png" width="300" height="345">
@@ -35,10 +43,6 @@ Explore creativity through technology, experiment with different forms of digita
 | NS-S001 | Synthetic but Fine | [More...](Synthetic_but_Fine_RU.md) |[More...](Synthetic_but_Fine_EN.md)|  ✅️ |
 | NS-S002 | Racing Line 1-3 | [More...](Racing_Line_RU.md) |[More...](Racing_Line_EN.md)|  🛠 |
 
-
-### Creative Experiments
-*Coming soon...*
-
 ## 🛠 Technology Stack
 
 * Image Generation
@@ -54,6 +58,6 @@ Technology does not exist separately from creativity.
 
 A project can be an application, a game, a song, an emblem, a video or an entirely new form of digital expression.
 
-Every creative work becomes another piece of the NNESTIMS identity.
+Every creative work becomes another piece of the NESTIMS identity.
 
 > **Built through technology. Expressed through creativity.**

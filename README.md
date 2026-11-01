@@ -36,7 +36,7 @@ Explore creativity through technology, experiment with different forms of digita
 ### Grand Theft Auto
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/NS_GTA.png" width="300" height="261">
 
-### Music
+## 🎵 Music
 
 | ID | Project | RU Links |EN Links| Status |
 | ------ | -------------- | ------- | ---- | :----: |

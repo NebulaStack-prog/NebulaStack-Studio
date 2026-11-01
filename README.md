@@ -20,7 +20,7 @@ Explore creativity through technology, experiment with different forms of digita
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/HalNFT.png" width="300" height="323">
 
 ### Christmas Collection
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/CrNFT.png" width="300" height="323">
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Studio/blob/main/%20CrNFT.png" width="300" height="323">
 
 ## 🚀 Other projects
 
